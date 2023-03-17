@@ -14,8 +14,8 @@ body{
 @media (min-width:1000px) {
     .frame{
         margin: 0;
-        margin-left: 250px;
-        margin-right: 250px;
+        margin-left: 350px;
+        margin-right: 350px;
     }
 }
 
